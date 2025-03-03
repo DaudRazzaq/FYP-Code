@@ -1,0 +1,1 @@
+export const BACKEND_ONE_URI = 'http://192.168.18.245:8082';
